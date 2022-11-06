@@ -42,9 +42,6 @@
   <a target="_blank" href="https://redux.js.org/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux"
       width="45" height="45" /></a>
-  <a target="_blank" href="https://jquery.com/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"
-      alt="jQuery" width="45" height="45" /></a>
   <a target="_blank" href="https://sass-lang.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="45"
       height="45" /></a>
@@ -58,10 +55,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma"
       width="45" height="45" /></a>
   <a target="_blank" href="https://d3js.org/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-plain.svg" alt="D3JS" width="45"
-      height="45" /></a>
-  <a target="_blank" href="https://www.php.net/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHP" width="45"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="D3JS" width="45"
       height="45" /></a>
   <a target="_blank" href="https://git-scm.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="45"
