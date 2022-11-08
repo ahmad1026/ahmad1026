@@ -9,14 +9,10 @@
       src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&labelColor=f4f4f4&logo=telegram&logoColor=D14836&link=https://t.me/ahmadmohammadi1026/"></a>
   <a href="mailto:a.mohammadi1026@gmail.com"><img
       src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&labelColor=f4f4f4&logo=gmail&logoColor=D14836&link=mailto:a.mohammadi1026@gmail.com/"></a>
-  <a href="https://www.linkedin.com/in/mre-dev/"><img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=f4f4f4&logo=linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/mre-dev/"></a>
+  
   <a href="https://wa.me/+989332245362"><img
       src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&labelColor=f4f4f4&logo=whatsapp&logoColor=25D366&link=https://wa.me/+989332245362/"></a>
-  <a href="https://twitter.com/mre_dev"><img
-      src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&labelColor=f4f4f4&logo=twitter&logoColor=1DA1F2&link=https://twitter.com/mre_dev/"></a>
-  <a href="https://instagram.com/mre_dev"><img
-      src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&labelColor=f4f4f4&logo=instagram&logoColor=E4405F&link=https://instagram.com/mre_dev/"></a>
+
 </p>
 
 <h2></h2>
